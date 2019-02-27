@@ -1,2 +1,2 @@
-# JavaServerFaces-2017-18
+# JavaServerFaces
 JavaServerFaces assignment
